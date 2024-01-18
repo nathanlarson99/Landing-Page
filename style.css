@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.logo{
+    display:flex;
+    flex-wrap: wrap;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    
+}
